@@ -1,0 +1,18 @@
+html {
+  font-family: sans-serif;
+}
+
+.card {
+  border: 3px solid #333;
+  border-radius: 8px;
+}
+
+.card:hover {
+  background-color: #e6e6e6;
+  color: #fff;
+}
+
+a {
+text-decoration: none;
+color: #000;
+}
